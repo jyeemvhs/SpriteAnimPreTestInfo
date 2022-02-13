@@ -1,0 +1,5 @@
+Create bricks to look like world.png.
+Add a game object sprite, name it Player, and place it on the right side.
+Add the camera code to CameraScript.cs, attach to main camera,
+and make the player the target of CameraScript.cs.
+Make the size of the camera such that you can see most of the world.
